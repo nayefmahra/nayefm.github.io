@@ -5,7 +5,7 @@ INFORMATICS/COMPUTATIONAL SCIENCE - BACHELOR OF
 SCIENCE (B.SC.)
 
 ### Work experiece
-Account Management with Data Analytics components @ AR-Experts @ Delivery Heroe
+Account Management with Data Analytics components @ AR-Experts @ Delivery Hero
 
 ### Projects
 Meteorit Landings
